@@ -1,0 +1,91 @@
+[
+  {
+    "nombre": "Lapiz de muchos colores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 1,
+    "timestamp": 1667316047830
+  },
+  {
+    "nombre": "Lapiz de colores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 2,
+    "timestamp": 1667316049334
+  },
+  {
+    "nombre": "Lapiz de colores morados",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 3
+  },
+  {
+    "nombre": "Lapiz de colores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 4,
+    "timestamp": 1667316051619
+  },
+  {
+    "nombre": "Lapiz de colores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 5,
+    "timestamp": 1667316052230
+  },
+  {
+    "nombre": "Lapiz de colores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 6,
+    "timestamp": 1667317582397
+  },
+  {
+    "nombre": "mapitas",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 7,
+    "timestamp": 1667317633288
+  },
+  {
+    "nombre": "mapitas",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 8,
+    "timestamp": 1667317724681
+  },
+  {
+    "nombre": "mapitas",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis lorem vitae risus facilisis accumsan.",
+    "codigo": "P001",
+    "url": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "precio": 15,
+    "stock": 5,
+    "id": 9,
+    "timestamp": 1667317887361
+  }
+]
